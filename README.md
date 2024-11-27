@@ -8,7 +8,7 @@
 ### 💫 About Me:
 - 🎓 I'm a BCA student passionate about *Full-stack Web Development and Data Science*.
 
-- 🌱 I’m currently learning *Back-end Development*.
+- 🌱 I’m currently learning *Front-end Development*.
 
 - 👀 I’m interested in *AI & ML*.
 
