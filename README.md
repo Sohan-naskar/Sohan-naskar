@@ -17,7 +17,7 @@
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,c,py,html" />
+    <img src="https://skillicons.dev/icons?i=c,py,html" />
   </a>
 </p>
 <!-- <h3 align="left">Frameworks</h3>
@@ -35,7 +35,7 @@
 <h3 align="left">Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </a>
 </p>
 
