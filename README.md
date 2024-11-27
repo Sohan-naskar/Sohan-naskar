@@ -31,7 +31,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a> -->
-</p>
+<!-- </p> -->
 <h3 align="left">Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
