@@ -20,17 +20,17 @@
     <img src="https://skillicons.dev/icons?i=js,c,py,html" />
   </a>
 </p>
-<h3 align="left">Frameworks</h3>
+<!-- <h3 align="left">Frameworks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
   </a>
-</p>
-<h3 align="left">Databases</h3>
+</p> -->
+<!-- <h3 align="left">Databases</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
+  </a> -->
 </p>
 <h3 align="left">Tools</h3>
 <p align="left">
